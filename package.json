@@ -1,0 +1,21 @@
+{
+  "name": "bottest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/translate": "^6.0.1",
+    "@vitalets/google-translate-api": "^3.0.0",
+    "express": "^4.17.1",
+    "google-auth-library": "^6.0.4",
+    "google-translate-api": "^2.3.0",
+    "googleapis": "^39.2.0",
+    "linebot": "^1.6.0",
+    "microsoft-cognitiveservices-speech-sdk": "^1.12.1"
+  }
+}
